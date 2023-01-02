@@ -4,5 +4,5 @@
 ## Run telnet file
     telnet localhost 8877
 
-## Run enter commands file
-    Run commands within the telnet connection
+## Execute commands 
+    Enter the linux commands within the telnet connection
